@@ -42,7 +42,7 @@
                 This tool helps you understand different anxiety types and levels while providing valuable resources.
             </p>
             <div class="flex justify-center">
-                <button class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg">
+                <button onclick="window.location.href='assessment.html'" class="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-lg">
                     Start Assessment
                 </button>
             </div>
